@@ -1,0 +1,13 @@
+HISTÓRIA E ECOSSISTEMA .NET
+
+-Problema: uso de diferentes linguagens de desenvolvimento para vários sistemas operacionais obrigava que o desenvolvimento fosse adequado a cada sistema operacional
+    -Solução: uso de virtual machine
+        -Um único código roda em todos os sistemas operacionais
+    -Aplicação traduzida em MSIL que será interpretada pela VM
+        -código => tradutor == compilador => aplicação MSIL
+    -Virtual machine => CLR - Common Language Runtime
+        -Máquina virtual usada para qualquer aplicação do ecossistema .NET
+    -MSIL => MIcrosoft Intermediate Language
+    
+    https://www.alura.com.br/artigos/historia-e-futuro-do-c
+
