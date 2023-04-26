@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProjetoVS_Um",
+    "\\ProjetoVS_Um\\CSharp",
+    "\\ProjetoVS_Um\\CSharp\\OlaMundo"
   ],
+  "SelectedNode": "\\ProjetoVS_Um\\CSharp\\OlaMundo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

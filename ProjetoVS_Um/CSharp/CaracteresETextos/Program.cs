@@ -25,6 +25,31 @@ class Program
         letra = (char)(48 / 4);
         Console.WriteLine(letra);
 
+        //Char vazio => não é possível => é necessário ter pelo menos um espaço
+        letra = ' ';
+
+        //String
+        string primeiraFrase = "Alura - Cursos de Tecnologia";
+        Console.WriteLine(primeiraFrase);
+
+        //Concatenação com strings
+        primeiraFrase = "Alura - Cursos de Tecnologia ";
+        Console.WriteLine(primeiraFrase + 2022);
+
+        //String vazia
+        string vazia = "";
+        Console.WriteLine(vazia);
+
+        /* Separando itens em uma string => uso do @;
+         * Os itens, ao serem "separados" da primeira parte da string, perdem a identação => caso seja identado novamente, a formatação do resultado depois da compilação será alterada também"         
+         */
+        string cursos = @"Cursos disponíveis: 
+-Go 
+-C# 
+-Python 
+-Java";
+        Console.WriteLine(cursos);
+
         Console.WriteLine("Tecle enter para fechar");
         Console.ReadLine();
     }
