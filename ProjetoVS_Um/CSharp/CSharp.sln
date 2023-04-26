@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoVariaveis", "Criando
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariaveisPontoFlutuante", "3-VariaveisPontoFlutuante\VariaveisPontoFlutuante.csproj", "{67F1C408-CA5D-406B-9BD1-A7F430C4F648}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversoesEOutrosTipos", "ConversoesEOutrosTipos\ConversoesEOutrosTipos.csproj", "{CCB69599-828C-43D2-A3EE-1E2005460E05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{67F1C408-CA5D-406B-9BD1-A7F430C4F648}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67F1C408-CA5D-406B-9BD1-A7F430C4F648}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67F1C408-CA5D-406B-9BD1-A7F430C4F648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB69599-828C-43D2-A3EE-1E2005460E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB69599-828C-43D2-A3EE-1E2005460E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB69599-828C-43D2-A3EE-1E2005460E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB69599-828C-43D2-A3EE-1E2005460E05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
