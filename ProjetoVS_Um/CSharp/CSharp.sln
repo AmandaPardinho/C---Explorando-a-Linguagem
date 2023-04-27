@@ -5,13 +5,15 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OlaMundo", "OlaMundo\OlaMundo.csproj", "{9E413CAA-C9DD-450E-9FA4-4053B2B6D054}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoVariaveis", "CriandoVariaveis\CriandoVariaveis.csproj", "{C8F5A3B6-F35D-42FA-A424-3F65357EB5A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CriandoVariaveis", "CriandoVariaveis\CriandoVariaveis.csproj", "{C8F5A3B6-F35D-42FA-A424-3F65357EB5A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariaveisPontoFlutuante", "3-VariaveisPontoFlutuante\VariaveisPontoFlutuante.csproj", "{67F1C408-CA5D-406B-9BD1-A7F430C4F648}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariaveisPontoFlutuante", "3-VariaveisPontoFlutuante\VariaveisPontoFlutuante.csproj", "{67F1C408-CA5D-406B-9BD1-A7F430C4F648}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversoesEOutrosTipos", "ConversoesEOutrosTipos\ConversoesEOutrosTipos.csproj", "{CCB69599-828C-43D2-A3EE-1E2005460E05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversoesEOutrosTipos", "ConversoesEOutrosTipos\ConversoesEOutrosTipos.csproj", "{CCB69599-828C-43D2-A3EE-1E2005460E05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaracteresETextos", "CaracteresETextos\CaracteresETextos.csproj", "{AFEA3567-350F-48FF-BBEB-9C8663B28F55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaracteresETextos", "CaracteresETextos\CaracteresETextos.csproj", "{AFEA3567-350F-48FF-BBEB-9C8663B28F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtribuicaoDeVariaveis", "AtribuicaoDeVariaveis\AtribuicaoDeVariaveis.csproj", "{5C2D30B9-7F5C-465D-8292-01B81EECB986}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{AFEA3567-350F-48FF-BBEB-9C8663B28F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFEA3567-350F-48FF-BBEB-9C8663B28F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFEA3567-350F-48FF-BBEB-9C8663B28F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2D30B9-7F5C-465D-8292-01B81EECB986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2D30B9-7F5C-465D-8292-01B81EECB986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2D30B9-7F5C-465D-8292-01B81EECB986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2D30B9-7F5C-465D-8292-01B81EECB986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
