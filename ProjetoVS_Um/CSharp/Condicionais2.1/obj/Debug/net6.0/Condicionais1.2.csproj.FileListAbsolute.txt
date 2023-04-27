@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\bin\Debug\net6.0\Condicionais1.2.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\bin\Debug\net6.0\Condicionais1.2.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\bin\Debug\net6.0\Condicionais1.2.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\bin\Debug\net6.0\Condicionais1.2.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\bin\Debug\net6.0\Condicionais1.2.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\obj\Debug\net6.0\Condicionais1.2.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\obj\Debug\net6.0\Condicionais1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\obj\Debug\net6.0\Condicionais1.2.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\obj\Debug\net6.0\Condicionais1.2.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\obj\Debug\net6.0\Condicionais1.2.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\obj\Debug\net6.0\Condicionais1.2.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\obj\Debug\net6.0\refint\Condicionais1.2.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\obj\Debug\net6.0\Condicionais1.2.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\obj\Debug\net6.0\Condicionais1.2.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Condicionais2.1\obj\Debug\net6.0\ref\Condicionais1.2.dll
