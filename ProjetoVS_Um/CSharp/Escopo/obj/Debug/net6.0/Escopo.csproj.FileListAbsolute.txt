@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\bin\Debug\net6.0\Escopo.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\bin\Debug\net6.0\Escopo.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\bin\Debug\net6.0\Escopo.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\bin\Debug\net6.0\Escopo.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\bin\Debug\net6.0\Escopo.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\obj\Debug\net6.0\Escopo.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\obj\Debug\net6.0\Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\obj\Debug\net6.0\Escopo.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\obj\Debug\net6.0\Escopo.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\obj\Debug\net6.0\Escopo.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\obj\Debug\net6.0\Escopo.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\obj\Debug\net6.0\refint\Escopo.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\obj\Debug\net6.0\Escopo.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\obj\Debug\net6.0\Escopo.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\Escopo\obj\Debug\net6.0\ref\Escopo.dll
