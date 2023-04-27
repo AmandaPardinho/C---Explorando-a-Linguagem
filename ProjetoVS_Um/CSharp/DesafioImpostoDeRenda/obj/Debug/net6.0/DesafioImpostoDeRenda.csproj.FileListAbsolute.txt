@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\bin\Debug\net6.0\DesafioImpostoDeRenda.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\bin\Debug\net6.0\DesafioImpostoDeRenda.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\bin\Debug\net6.0\DesafioImpostoDeRenda.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\bin\Debug\net6.0\DesafioImpostoDeRenda.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\bin\Debug\net6.0\DesafioImpostoDeRenda.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\obj\Debug\net6.0\DesafioImpostoDeRenda.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\obj\Debug\net6.0\DesafioImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\obj\Debug\net6.0\DesafioImpostoDeRenda.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\obj\Debug\net6.0\DesafioImpostoDeRenda.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\obj\Debug\net6.0\DesafioImpostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\obj\Debug\net6.0\DesafioImpostoDeRenda.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\obj\Debug\net6.0\refint\DesafioImpostoDeRenda.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\obj\Debug\net6.0\DesafioImpostoDeRenda.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\obj\Debug\net6.0\DesafioImpostoDeRenda.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioImpostoDeRenda\obj\Debug\net6.0\ref\DesafioImpostoDeRenda.dll
