@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\bin\Debug\net6.0\AtribuicaoDeVariaveis.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\bin\Debug\net6.0\AtribuicaoDeVariaveis.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\bin\Debug\net6.0\AtribuicaoDeVariaveis.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\bin\Debug\net6.0\AtribuicaoDeVariaveis.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\bin\Debug\net6.0\AtribuicaoDeVariaveis.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\obj\Debug\net6.0\AtribuicaoDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\obj\Debug\net6.0\AtribuicaoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\obj\Debug\net6.0\AtribuicaoDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\obj\Debug\net6.0\AtribuicaoDeVariaveis.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\obj\Debug\net6.0\AtribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\obj\Debug\net6.0\AtribuicaoDeVariaveis.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\obj\Debug\net6.0\refint\AtribuicaoDeVariaveis.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\obj\Debug\net6.0\AtribuicaoDeVariaveis.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\obj\Debug\net6.0\AtribuicaoDeVariaveis.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\AtribuicaoDeVariaveis\obj\Debug\net6.0\ref\AtribuicaoDeVariaveis.dll
