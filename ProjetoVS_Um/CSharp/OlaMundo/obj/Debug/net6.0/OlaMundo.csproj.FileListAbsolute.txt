@@ -13,3 +13,18 @@ C:\Users\amand\OneDrive\Área de Trabalho\Repositórios - Performa IT\Públicos\
 C:\Users\amand\OneDrive\Área de Trabalho\Repositórios - Performa IT\Públicos\C#\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\OlaMundo.pdb
 C:\Users\amand\OneDrive\Área de Trabalho\Repositórios - Performa IT\Públicos\C#\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\OlaMundo.genruntimeconfig.cache
 C:\Users\amand\OneDrive\Área de Trabalho\Repositórios - Performa IT\Públicos\C#\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\ref\OlaMundo.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\bin\Debug\net6.0\OlaMundo.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\bin\Debug\net6.0\OlaMundo.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\bin\Debug\net6.0\OlaMundo.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\bin\Debug\net6.0\OlaMundo.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\bin\Debug\net6.0\OlaMundo.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\OlaMundo.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\OlaMundo.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\OlaMundo.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\refint\OlaMundo.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\OlaMundo.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\OlaMundo.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\OlaMundo\obj\Debug\net6.0\ref\OlaMundo.dll

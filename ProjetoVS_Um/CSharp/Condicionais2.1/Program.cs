@@ -1,4 +1,7 @@
 ﻿using System;
+
+// Resulução do problema dado em aula, mas escrito de uma maneira levemente diferente...
+
 class Program
 {
     static void Main(string[] args)

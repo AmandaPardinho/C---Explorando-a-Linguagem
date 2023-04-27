@@ -13,3 +13,18 @@ C:\Users\amand\OneDrive\Área de Trabalho\Repositórios - Performa IT\Públicos\
 C:\Users\amand\OneDrive\Área de Trabalho\Repositórios - Performa IT\Públicos\C#\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.pdb
 C:\Users\amand\OneDrive\Área de Trabalho\Repositórios - Performa IT\Públicos\C#\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.genruntimeconfig.cache
 C:\Users\amand\OneDrive\Área de Trabalho\Repositórios - Performa IT\Públicos\C#\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ref\ConversoesEOutrosTipos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\refint\ConversoesEOutrosTipos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ref\ConversoesEOutrosTipos.dll
