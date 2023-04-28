@@ -25,15 +25,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Escopo", "Escopo\Escopo.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioImpostoDeRenda", "DesafioImpostoDeRenda\DesafioImpostoDeRenda.csproj", "{DF7953EE-FBD1-42C0-BD01-996A3BC3ECC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoExtraSwitch", "ProjetoExtraSwitch\ProjetoExtraSwitch.csproj", "{B21F3D1E-761C-43C5-A388-59F3AF183D9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoExtraSwitch", "ProjetoExtraSwitch\ProjetoExtraSwitch.csproj", "{B21F3D1E-761C-43C5-A388-59F3AF183D9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaPoupanca", "CalculaPoupanca\CalculaPoupanca.csproj", "{22DB101F-6E96-47F1-A5EE-8EC5C99746E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculaPoupanca", "CalculaPoupanca\CalculaPoupanca.csproj", "{22DB101F-6E96-47F1-A5EE-8EC5C99746E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaPoupanca2", "CalculaPoupanca2\CalculaPoupanca2.csproj", "{D2520894-E0A6-4990-809F-DB402C17779A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculaPoupanca2", "CalculaPoupanca2\CalculaPoupanca2.csproj", "{D2520894-E0A6-4990-809F-DB402C17779A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvestimentoLongoPrazo", "InvestimentoLongoPrazo\InvestimentoLongoPrazo.csproj", "{427F1E94-338F-4B28-84FA-01E1675E99C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvestimentoLongoPrazo", "InvestimentoLongoPrazo\InvestimentoLongoPrazo.csproj", "{427F1E94-338F-4B28-84FA-01E1675E99C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncadeandoFor", "EncadeandoFor\EncadeandoFor.csproj", "{E8240522-4BA8-4046-870C-03AC2788EFBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncadeandoFor", "EncadeandoFor\EncadeandoFor.csproj", "{E8240522-4BA8-4046-870C-03AC2788EFBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioExtraWhile", "ExercicioExtraWhile\ExercicioExtraWhile.csproj", "{7E683A4F-FCCA-45C9-AF50-9149989CD358}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioExtraFor", "ExercicioExtraFor\ExercicioExtraFor.csproj", "{D9BA8569-AFFD-46A8-8486-BB334F0CCA77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioExtraForAninhado", "ExercicioExtraForAninhado\ExercicioExtraForAninhado.csproj", "{694FB6B7-62EF-4168-9165-4A1F9541B8F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio2Multiplos", "Desafio2Multiplos\Desafio2Multiplos.csproj", "{91C42C73-BE26-43C8-871B-F93CCBFC865A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio3Fatorial", "Desafio3Fatorial\Desafio3Fatorial.csproj", "{C735E98E-806C-4166-8E42-25D4DB5B2307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioSobreFatorial", "DesafioSobreFatorial\DesafioSobreFatorial.csproj", "{936C0C8D-7917-4E2C-905F-E53F30E71142}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +117,30 @@ Global
 		{E8240522-4BA8-4046-870C-03AC2788EFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8240522-4BA8-4046-870C-03AC2788EFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8240522-4BA8-4046-870C-03AC2788EFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E683A4F-FCCA-45C9-AF50-9149989CD358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E683A4F-FCCA-45C9-AF50-9149989CD358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E683A4F-FCCA-45C9-AF50-9149989CD358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E683A4F-FCCA-45C9-AF50-9149989CD358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BA8569-AFFD-46A8-8486-BB334F0CCA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BA8569-AFFD-46A8-8486-BB334F0CCA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BA8569-AFFD-46A8-8486-BB334F0CCA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BA8569-AFFD-46A8-8486-BB334F0CCA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694FB6B7-62EF-4168-9165-4A1F9541B8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694FB6B7-62EF-4168-9165-4A1F9541B8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694FB6B7-62EF-4168-9165-4A1F9541B8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694FB6B7-62EF-4168-9165-4A1F9541B8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C42C73-BE26-43C8-871B-F93CCBFC865A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C42C73-BE26-43C8-871B-F93CCBFC865A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C42C73-BE26-43C8-871B-F93CCBFC865A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C42C73-BE26-43C8-871B-F93CCBFC865A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C735E98E-806C-4166-8E42-25D4DB5B2307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C735E98E-806C-4166-8E42-25D4DB5B2307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C735E98E-806C-4166-8E42-25D4DB5B2307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C735E98E-806C-4166-8E42-25D4DB5B2307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936C0C8D-7917-4E2C-905F-E53F30E71142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936C0C8D-7917-4E2C-905F-E53F30E71142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936C0C8D-7917-4E2C-905F-E53F30E71142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936C0C8D-7917-4E2C-905F-E53F30E71142}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
