@@ -13,17 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversoesEOutrosTipos", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaracteresETextos", "CaracteresETextos\CaracteresETextos.csproj", "{AFEA3567-350F-48FF-BBEB-9C8663B28F55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtribuicaoDeVariaveis", "AtribuicaoDeVariaveis\AtribuicaoDeVariaveis.csproj", "{5C2D30B9-7F5C-465D-8292-01B81EECB986}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtribuicaoDeVariaveis", "AtribuicaoDeVariaveis\AtribuicaoDeVariaveis.csproj", "{5C2D30B9-7F5C-465D-8292-01B81EECB986}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionais", "Condicionais\Condicionais.csproj", "{72E15BF7-714B-4326-A2F3-FA4B57AB4507}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicionais", "Condicionais\Condicionais.csproj", "{72E15BF7-714B-4326-A2F3-FA4B57AB4507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionais1.2", "Condicionais2.1\Condicionais1.2.csproj", "{5464EE1E-B2C7-4344-8EF4-BB6EC6D38199}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicionais1.2", "Condicionais2.1\Condicionais1.2.csproj", "{5464EE1E-B2C7-4344-8EF4-BB6EC6D38199}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionais2", "Condicionais2\Condicionais2.csproj", "{F8B0BC2C-9E93-46AA-BE04-A6C2021D94B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicionais2", "Condicionais2\Condicionais2.csproj", "{F8B0BC2C-9E93-46AA-BE04-A6C2021D94B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escopo", "Escopo\Escopo.csproj", "{579B484F-7151-498A-8A41-E3A0E4BBE16A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Escopo", "Escopo\Escopo.csproj", "{579B484F-7151-498A-8A41-E3A0E4BBE16A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioImpostoDeRenda", "DesafioImpostoDeRenda\DesafioImpostoDeRenda.csproj", "{DF7953EE-FBD1-42C0-BD01-996A3BC3ECC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioImpostoDeRenda", "DesafioImpostoDeRenda\DesafioImpostoDeRenda.csproj", "{DF7953EE-FBD1-42C0-BD01-996A3BC3ECC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoExtraSwitch", "ProjetoExtraSwitch\ProjetoExtraSwitch.csproj", "{B21F3D1E-761C-43C5-A388-59F3AF183D9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{DF7953EE-FBD1-42C0-BD01-996A3BC3ECC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF7953EE-FBD1-42C0-BD01-996A3BC3ECC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF7953EE-FBD1-42C0-BD01-996A3BC3ECC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21F3D1E-761C-43C5-A388-59F3AF183D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21F3D1E-761C-43C5-A388-59F3AF183D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21F3D1E-761C-43C5-A388-59F3AF183D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21F3D1E-761C-43C5-A388-59F3AF183D9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
