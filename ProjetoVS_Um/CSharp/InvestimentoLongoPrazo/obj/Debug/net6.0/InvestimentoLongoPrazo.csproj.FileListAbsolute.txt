@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\bin\Debug\net6.0\InvestimentoLongoPrazo.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\bin\Debug\net6.0\InvestimentoLongoPrazo.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\bin\Debug\net6.0\InvestimentoLongoPrazo.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\bin\Debug\net6.0\InvestimentoLongoPrazo.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\bin\Debug\net6.0\InvestimentoLongoPrazo.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\obj\Debug\net6.0\InvestimentoLongoPrazo.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\obj\Debug\net6.0\InvestimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\obj\Debug\net6.0\InvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\obj\Debug\net6.0\InvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\obj\Debug\net6.0\InvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\obj\Debug\net6.0\InvestimentoLongoPrazo.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\obj\Debug\net6.0\refint\InvestimentoLongoPrazo.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\obj\Debug\net6.0\InvestimentoLongoPrazo.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\obj\Debug\net6.0\InvestimentoLongoPrazo.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\InvestimentoLongoPrazo\obj\Debug\net6.0\ref\InvestimentoLongoPrazo.dll
