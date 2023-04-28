@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\bin\Debug\net6.0\DesafioSobreFatorial.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\bin\Debug\net6.0\DesafioSobreFatorial.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\bin\Debug\net6.0\DesafioSobreFatorial.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\bin\Debug\net6.0\DesafioSobreFatorial.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\bin\Debug\net6.0\DesafioSobreFatorial.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\obj\Debug\net6.0\DesafioSobreFatorial.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\obj\Debug\net6.0\DesafioSobreFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\obj\Debug\net6.0\DesafioSobreFatorial.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\obj\Debug\net6.0\DesafioSobreFatorial.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\obj\Debug\net6.0\DesafioSobreFatorial.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\obj\Debug\net6.0\DesafioSobreFatorial.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\obj\Debug\net6.0\refint\DesafioSobreFatorial.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\obj\Debug\net6.0\DesafioSobreFatorial.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\obj\Debug\net6.0\DesafioSobreFatorial.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\DesafioSobreFatorial\obj\Debug\net6.0\ref\DesafioSobreFatorial.dll
