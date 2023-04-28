@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\bin\Debug\net6.0\ExercicioExtraForAninhado.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\bin\Debug\net6.0\ExercicioExtraForAninhado.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\bin\Debug\net6.0\ExercicioExtraForAninhado.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\bin\Debug\net6.0\ExercicioExtraForAninhado.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\bin\Debug\net6.0\ExercicioExtraForAninhado.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\obj\Debug\net6.0\ExercicioExtraForAninhado.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\obj\Debug\net6.0\ExercicioExtraForAninhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\obj\Debug\net6.0\ExercicioExtraForAninhado.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\obj\Debug\net6.0\ExercicioExtraForAninhado.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\obj\Debug\net6.0\ExercicioExtraForAninhado.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\obj\Debug\net6.0\ExercicioExtraForAninhado.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\obj\Debug\net6.0\refint\ExercicioExtraForAninhado.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\obj\Debug\net6.0\ExercicioExtraForAninhado.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\obj\Debug\net6.0\ExercicioExtraForAninhado.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\C---Explorando-a-Linguagem\ProjetoVS_Um\CSharp\ExercicioExtraForAninhado\obj\Debug\net6.0\ref\ExercicioExtraForAninhado.dll
